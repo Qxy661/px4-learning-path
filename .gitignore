@@ -1,0 +1,60 @@
+# Build
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Logs
+*.log
+logs/
+
+# MATLAB/Simulink
+*.slxc
+*.autosave
+*.asv
+slprj/
+sccprj/
+
+# Compiled
+*.mex*
+*.p
+
+# Data
+*.mat
+*.csv
+*.bag
+*.ulg
+*.ulg.*
+
+# Temp
+*.tmp
+*.temp
+.cache/
